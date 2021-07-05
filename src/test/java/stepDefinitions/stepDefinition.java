@@ -44,6 +44,7 @@ public class stepDefinition {
 			lp.getPopup().click();
 		}
 		lp.getSignIn().click();
+		System.out.println("Nvaigate to login page");
 
     }
 
